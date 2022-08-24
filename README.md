@@ -34,3 +34,9 @@ main:
 
 ## Seek Help
 You can just use any command with `--help` or `-h` and it will print the help page
+
+
+## Resources Used
+1. Jfrog artifactory documentation https://www.jfrog.com/confluence/display/JFROG/Artifactory+REST+API 
+2. Python argument parser docs https://docs.python.org/3.6/library/argparse.html#action
+3. Python requests module docs https://requests.readthedocs.io/en/latest/
